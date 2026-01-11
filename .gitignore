@@ -1,0 +1,17 @@
+.env
+*.env
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+bin/
+obj/
+node_modules/
+build/
+.venv/
+function.zip
+__pycache__/
+*.pyc
+terraform.exe
+.terraform.lock.hcl
+terraform.tfvars
+.terraform.lock.hcl
